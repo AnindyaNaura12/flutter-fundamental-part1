@@ -17,7 +17,7 @@ Praktikum 1
 Praktikum 2
 ![Screenshot prak2](images/Prak2.png)
 --> running Flutter emulator
-![Screenshot prak2_step1](images/Prak2Langkah1.png)
+![Screenshot prak2_step1](images/Prak2Langkah1.jpeg)
 --> About Phone
 ![Screenshot prak2_step2](images/Prak2Langkah2.jpeg)
 --> tapping build number 7 times
@@ -68,9 +68,9 @@ Praktikum 4
 "My name is Anindya Naura Putri Azzahra, currently learning Mobile Programming"
 with red color, font size 14, and center-aligned text using the Text widget in Flutter
 
-![Screenshot prak4_step2](images/Prak4Langkah2.png)
+![Screenshot prak4_step2](images/Prak4Langkah1.png)
 --> codeimage_widget.dart
-![Screenshot prak4_step2(1)](images/Prak4Langkah2(1).png)
+![Screenshot prak4_step2(1)](images/Prak4Langkah1(1).png)
 --> Added the Polinema logo to the images folder
 ![Screenshot prak4_step2(2)](images/Prak4Langkah2(2).png)
 --> code pubspec.yml
